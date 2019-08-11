@@ -6,7 +6,7 @@ phases:
       nodejs: 10
     build:
       commands:
-        - echo Nothing to do yer
+        - npm run build
 artifacts:
     files:
-      - '**/*'
+      - 'build/*'
