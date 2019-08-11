@@ -1,9 +1,12 @@
 version: 0.1
 
 phases:
+  install:
+    runtime-versions:
+      nodejs: 10
     build:
       commands:
         - echo Nothing to do yer
 artifacts:
     files:
-    - README.md
+      - '**/*'
