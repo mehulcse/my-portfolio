@@ -119,7 +119,7 @@ let resumeData = {
     "skills": [
         {
             "skillname": "Javascript",
-            "ratings": "90%"
+            "ratings": "92%"
         },
         {
             "skillname": "React Js",
@@ -131,19 +131,19 @@ let resumeData = {
         },
         {
             "skillname": "HTML5",
-            "ratings": "85%"
+            "ratings": "90%"
         },
         {
             "skillname": "CSS",
-            "ratings": "85%"
+            "ratings": "87%"
         },
         {
             "skillname": "AWS",
-            "ratings": "50%"
+            "ratings": "55%"
         },
         {
             "skillname": "Graph QL",
-            "ratings": "50%"
+            "ratings": "45%"
         },
     ],
     "portfolio": [
