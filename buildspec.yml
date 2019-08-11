@@ -14,7 +14,7 @@ phases:
   post_build:
     commands:
       # deploying to s3
-      - aws s3 sync build/ s3://${BUCKET_NAME} --delete --profile personal
+      - aws s3 sync build/ s3://${BUCKET_NAME} --delete
       # Clearing cloudFront Cache
       - aws cloudfront create-invalidation --distribution-id ${CLOUD_FRONT_DISTRIBUTION} --paths "/*"
 
