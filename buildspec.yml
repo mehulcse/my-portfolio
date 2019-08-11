@@ -17,7 +17,3 @@ phases:
       - aws s3 sync build/ ${BUCKET_NAME} --delete
       # Clearing cloudFront Cache
       - aws cloudfront create-invalidation --distribution-id ${CLOUD_FRONT_DISTRIBUTION} --paths "/*"
-
-artifacts:
-    files:
-      - build/*
