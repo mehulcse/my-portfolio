@@ -1,11 +1,16 @@
 version: 0.1
 
 phases:
-  build:
+    install:
+      runtime-versions:
+        nodejs: 10
+    build:
     commands:
       # Build our react application
-      - npm run build
-artifacts:
-  files:
-    - index.html
+      # - npm run build
+      echo build will run here
+  artifacts:
+    files:
+    - public/*
+    - src/*
 
