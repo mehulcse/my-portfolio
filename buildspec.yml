@@ -17,3 +17,5 @@ phases:
       - aws s3 sync build/ ${BUCKET_NAME} --delete
       # Clearing cloudFront Cache
       - aws cloudfront create-invalidation --distribution-id ${CLOUD_FRONT_DISTRIBUTION} --paths "/*"
+      # Sending Build completion email
+      - aws sns publish --topic-arn ${SNS_ARN} --subject "Build Completed" --message "The build is completed."
