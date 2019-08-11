@@ -6,4 +6,5 @@ This is my professional Portfolio, It is built using the principles of Serverles
 ## Technologies Used
 
 - Git and github
+- Brew
 - SSH
