@@ -18,7 +18,7 @@ let resumeData = {
         }
     ],
     "aboutme": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in React.js, Angular, Web Applications, Amazon Web Services (AWS), and Algorithms. Strong engineering professional with a Bachelor’s Degree in Computer Science and Engineering from L C Institute Of Technology.",
-    "address": "E 1003, 7 Avenues Apartments, Baner, Pune, MH, India",
+    "address": "E 1003, 7 Avenues Apartments, Baner, Pune, MH, India.",
     "email": "mehulthakkar02@gmail.com",
     "contactNumber": "(+91) 814 854 1652",
     "website": "https://www.mehulcse.com",
