@@ -15,6 +15,11 @@ let resumeData = {
             "name": "github",
             "url": "https://github.com/mehulcse",
             "className": "fa fa-github"
+        },
+        {
+            "name": "stackoverflow",
+            "url": "https://stackoverflow.com/users/6888239/mehulcse",
+            "className": "fa fa-stack-overflow"
         }
     ],
     "aboutme": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in React.js, Angular, Web Applications, Amazon Web Services (AWS), and Algorithms. Strong engineering professional with a Bachelor’s Degree in Computer Science and Engineering from L C Institute Of Technology.",
