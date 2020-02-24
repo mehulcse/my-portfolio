@@ -20,7 +20,7 @@ export default class Footer extends Component {
             }
           </ul>
           <ul className="copyright">
-            <li>© Copyright 2019 Mehul Thakkar</li>
+            <li>© Copyright {new Date().getFullYear()} Mehul Thakkar</li>
           </ul>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
