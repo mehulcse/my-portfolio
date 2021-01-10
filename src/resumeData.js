@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer",
     "linkedinId": "Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm a Pune based creative and self-starting Front-End Developer with 7+ years experience in building stable websites and apps in fast-paced, collaborative environments. Highly skilled in HTML/CSS/JavaScript/React/React-Native/Angular and an AWS Certified Cloud Practitioner. Well-versed in Scrum and Agile.",
+    "roleDescription": "I'm a Pune based creative and self-starting Front-End Developer with around 9 years experience in building stable websites and apps in fast-paced, collaborative environments. Highly skilled in HTML/CSS/JavaScript/React/React-Native/Angular and an AWS Certified Cloud Practitioner. Well-versed in Scrum and Agile.",
     "socialLinks": [
         {
             "name": "linkedin",
