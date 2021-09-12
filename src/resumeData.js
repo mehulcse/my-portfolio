@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl": "https://techonoeticsclub.github.io/",
     "name": "Mehul Thakkar",
-    "role": "Frontend Developer",
-    "linkedinId": "Your LinkedIn Id",
+    "role": "Fullstack Developer",
+    "linkedinId": "mehulcse",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm a Pune based creative and self-starting Front-End Developer with around 9 years experience in building stable websites and apps in fast-paced, collaborative environments. Highly skilled in HTML/CSS/JavaScript/React/React-Native/Angular/GraphQl/NodeJS and an AWS Certified Cloud Practitioner. Well-versed in Scrum and Agile.",
+    "roleDescription": "I'm a Pune based creative and self-starting Front-End Developer with around 9+ years experience in building stable websites and apps in fast-paced, collaborative environments. Highly skilled in JS/React/React-Native/GraphQl/NodeJS/GoLang/AWS/HTML/CSS and an AWS Certified solution architect - associate. Well-versed in Scrum and Agile.",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
             "className": "fa fa-stack-overflow"
         }
     ],
-    "aboutme": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in React.js, Angular, Web Applications, Amazon Web Services (AWS), and Algorithms. Strong engineering professional with a Bachelor’s Degree in Computer Science and Engineering from L C Institute Of Technology.",
+    "aboutme": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in React.js, GoLang, NodeJS, Web Applications, Amazon Web Services (AWS), and Algorithms. Strong engineering professional with a Bachelor’s Degree in Computer Science and Engineering from L C Institute Of Technology.",
     "address": "E 1003, 7 Avenues Apartments, Baner, Pune, MH, India.",
     "email": "mehulthakkar02@gmail.com",
     "contactNumber": "(+91) 814 854 1652",
@@ -120,7 +120,7 @@ let resumeData = {
             ],
         }
     ],
-    "skillsDescription": "JS | React | AWS | Alexa | Angular | Technical Reviewer at Packt",
+    "skillsDescription": "JS | React | GO | Node | AWS | Alexa | Angular | Technical Reviewer at Packt",
     "skills": [
         {
             "skillname": "Javascript",
@@ -129,6 +129,22 @@ let resumeData = {
         {
             "skillname": "React Js",
             "ratings": "90%"
+        },
+        {
+            "skillname": "GoLang",
+            "ratings": "50%"
+        },
+        {
+            "skillname": "Node JS",
+            "ratings": "80%"
+        },
+        {
+            "skillname": "Graph QL",
+            "ratings": "80%"
+        },
+        {
+            "skillname": "AWS",
+            "ratings": "70%"
         },
         {
             "skillname": "Angular 1.X",
@@ -141,18 +157,6 @@ let resumeData = {
         {
             "skillname": "CSS",
             "ratings": "87%"
-        },
-        {
-            "skillname": "Graph QL",
-            "ratings": "80%"
-        },
-        {
-            "skillname": "AWS",
-            "ratings": "55%"
-        },
-        {
-            "skillname": "Node JS",
-            "ratings": "50%"
         },
     ],
     "portfolio": [
